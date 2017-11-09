@@ -1,0 +1,9 @@
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\RomanNumberConverter.Test.dll
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\RomanNumberConverter.Test.pdb
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\obj\Debug\RomanNumberConverter.Test.csprojResolveAssemblyReference.cache
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\obj\Debug\RomanNumberConverter.Test.dll
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\obj\Debug\RomanNumberConverter.Test.pdb
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\RomanNumberConverter.exe
+C:\Projects\RomanNumberConverter\RomanNumberConverter.Test\bin\Debug\RomanNumberConverter.pdb

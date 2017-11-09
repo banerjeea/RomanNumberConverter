@@ -1,0 +1,5 @@
+C:\Projects\RomanNumberConverter\RomanNumberConverter\bin\Debug\RomanNumberConverter.exe.config
+C:\Projects\RomanNumberConverter\RomanNumberConverter\bin\Debug\RomanNumberConverter.exe
+C:\Projects\RomanNumberConverter\RomanNumberConverter\bin\Debug\RomanNumberConverter.pdb
+C:\Projects\RomanNumberConverter\RomanNumberConverter\obj\Debug\RomanNumberConverter.exe
+C:\Projects\RomanNumberConverter\RomanNumberConverter\obj\Debug\RomanNumberConverter.pdb
